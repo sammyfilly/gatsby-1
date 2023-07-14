@@ -58,7 +58,7 @@
     "semver": "^7.3.5",
     "single-trailing-newline": "^1.0.0",
     "strip-ansi": "^6.0.1",
-    "style-to-object": "^0.3.0",
+    "style-to-object": "^0.4.1",
     "unified": "^8.4.2",
     "unist-util-remove": "^2.0.0",
     "unist-util-visit": "^2.0.2",
