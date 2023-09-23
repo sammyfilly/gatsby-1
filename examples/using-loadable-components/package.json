@@ -8,7 +8,7 @@
     "gatsby": "next",
     "gatsby-plugin-gatsby-cloud": "next",
     "gatsby-plugin-image": "next",
-    "gatsby-plugin-loadable-components-ssr": "3.0.0",
+    "gatsby-plugin-loadable-components-ssr": "3.4.0",
     "gatsby-plugin-react-helmet": "next",
     "gatsby-plugin-sharp": "next",
     "gatsby-source-filesystem": "next",
