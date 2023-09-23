@@ -12,7 +12,7 @@
     "gatsby": "next",
     "gatsby-plugin-emotion": "next",
     "gatsby-plugin-image": "next",
-    "gatsby-plugin-netlify": "next",
+    "gatsby-plugin-netlify": "4.4.0",
     "gatsby-plugin-sharp": "next",
     "gatsby-plugin-typography": "next",
     "gatsby-source-filesystem": "next",
