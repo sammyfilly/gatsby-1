@@ -16,7 +16,7 @@
     "gatsby-source-filesystem": "next",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "theme-ui": "^0.3.1"
+    "theme-ui": "^0.16.1"
   },
   "keywords": [
     "gatsby"
