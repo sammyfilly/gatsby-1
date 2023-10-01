@@ -12,7 +12,7 @@
     "dateformat": "^3.0.3",
     "gatsby": "next",
     "gatsby-image": "next",
-    "gatsby-plugin-netlify": "next",
+    "gatsby-plugin-netlify": "4.4.0",
     "gatsby-plugin-sharp": "next",
     "gatsby-source-filesystem": "next",
     "gatsby-source-graphql": "next",
