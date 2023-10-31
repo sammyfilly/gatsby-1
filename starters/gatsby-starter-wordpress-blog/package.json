@@ -12,7 +12,7 @@
     "@fontsource/montserrat": "^4.5.13",
     "@wordpress/block-library": "^7.18.0",
     "gatsby": "^5.0.0",
-    "gatsby-plugin-image": "^3.0.0",
+    "gatsby-plugin-image": "^3.12.1",
     "gatsby-plugin-manifest": "^5.0.0",
     "gatsby-plugin-sharp": "^5.0.0",
     "gatsby-source-wordpress": "^7.0.0",
